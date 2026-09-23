@@ -2,8 +2,8 @@
 
 ### Senior Full Stack .NET Engineer | Technical Lead | Solution Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/doaa-mahmoud-hashish/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github)](https://github.com/engdoaam)
 
 Senior Software Engineer with **12+ years of experience** building and maintaining
 enterprise applications using **.NET, C#, Angular, Vue.js, React, SQL Server,
