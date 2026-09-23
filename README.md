@@ -256,4 +256,4 @@ I'm interested in opportunities where I can contribute through both
 📍 **Egypt**  
 🌍 **Open to remote opportunities worldwide**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/doaa-mahmoud-hashish/))
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doaa-mahmoud-hashish/)
