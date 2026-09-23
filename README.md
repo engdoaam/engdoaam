@@ -2,7 +2,7 @@
 
 ### Senior Full Stack .NET Engineer | Technical Lead | Solution Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/doaa-mahmoud-hashish/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/doaa-mahmoud-hashish/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github)](https://github.com/engdoaam)
 
 Senior Software Engineer with **12+ years of experience** building and maintaining
@@ -140,7 +140,6 @@ Planned and experimental capabilities include:
 > **Status:** Active development — AI capabilities are being progressively
 > designed and implemented.
 
-➡️ **[Explore School Bridge](YOUR_SCHOOL_BRIDGE_REPOSITORY_URL)**
 
 ---
 
